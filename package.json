@@ -1,7 +1,7 @@
 {
   "name": "openaicodexcodeautocomplete",
   "displayName": "OpenAICodexCodeAutoComplete",
-  "description": "Open AI Codex Code Auto Complete extension",
+  "description": "Open AI Codex Code Auto Complete Visual Studio Code extension",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.60.0"
